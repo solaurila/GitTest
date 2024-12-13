@@ -3,8 +3,7 @@ package GitTest;
 public class Test {
 
 	public static void main(String[] args) {
-		hjkghnjh
-		j,lgdfgdfg
+		//Die dritte version
 
 		// TODO Auto-generated method stub
 
